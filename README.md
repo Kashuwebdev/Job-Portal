@@ -1,3 +1,4 @@
+#Job-Portal
 The Job Portal Project is a web application designed to connect job seekers with employers. This platform allows users to search and apply for jobs, while employers can post job listings and manage applications. Built with modern web technologies, the project aims to streamline the hiring process and create a seamless experience for both job seekers and employers.
 
 Features
